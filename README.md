@@ -20,16 +20,8 @@ We believe open source thrives on collaboration, and we're excited to have your 
 
 ### 🤝 How to Contribute
 
-1. [Fork this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
-
-2. **Create** a new branch:
-   ```bash
-   git checkout -b feature/your-topic
-3. Write your questions:
-    - For MCQs: Include question, options (A-D), correct answer, and explanation.
-
-    - For coding: Clearly define input/output, constraints, and sample test cases.
-4. Open a Pull Request with a short summary of what you've added or updated.
+All code contributions, including those of people having commit access, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
+We truly ❤️ pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide](https://github.com/RushikeshMarkad16/OS-Friday-Questions/blob/main/CONTRIBUTING_GUIDLINES.md).
 
 ## 📘 Guidelines for Questions
 
@@ -53,3 +45,6 @@ We believe open source thrives on collaboration, and we're excited to have your 
     - Ensure there’s no plagiarism. Questions must be your original work.
     - Keep explanations concise but clear.
     - Keep difficulty in mind: avoid overly simple or easily searchable questions.
+
+## 🤝 Code of Conduct
+- Please follow the [code of conduct](https://github.com/RushikeshMarkad16/OS-Friday-Questions/blob/main/CODE_OF_CONDUCT.md)
