@@ -70,7 +70,7 @@ solutions/
 
 Welcome\! We love first-time contributors. Look for issues tagged as a good `first issue` or `help wanted`.
 
-Need help? Just open a [discussion](https://chatgpt.com/discussions) or ask in the issue comments.
+Need help? Ask us in Open Source Session or ask in the issue comments.
 
 ---
 
