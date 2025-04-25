@@ -23,6 +23,16 @@ We believe open source thrives on collaboration, and we're excited to have your 
 All code contributions, including those of people having commit access, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
 We truly ❤️ pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide](https://github.com/RushikeshMarkad16/OS-Friday-Questions/blob/main/CONTRIBUTING_GUIDLINES.md).
 
+## 💻 Allowed Languages
+- C
+- CPP
+- SQL
+- Java
+- Ruby
+- Python
+- Golang
+- Javascript
+
 ## 📘 Guidelines for Questions
 
 - ## 🧩 MCQs:
